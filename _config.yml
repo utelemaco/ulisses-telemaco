@@ -2,7 +2,7 @@
 title: Yeat... another tech blog
 description: A blog about Technology... Yeahh!!!
 baseurl: "/ulisses-telemaco" # the subpath of your site, e.g. /blog
-url: "https://utelemaco.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://utelemaco.github.io/ulisses-telemaco" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ulisses Telemaco
